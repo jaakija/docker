@@ -21,8 +21,8 @@
       "allowInsecure": true,
       "certificates": [
         {
-          "certificateFile": "v2ray.crt",
-          "keyFile": "v2ray.key"
+          "certificateFile": "/v2ray.crt",
+          "keyFile": "/v2ray.key"
         }
       ]
     },
